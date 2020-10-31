@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Languages>
+  <Language key="0" value="操作が成功する"/>
+  <Language key="1" value="操作に失敗しましたので、再操作してください！"/>
+  <Language key="2" value="ユーザー登録に失敗したので、再登録してください！"/>
+  <Language key="404" value="誤りを求める!"/>
+  <Language key="600" value="不法に要求し,要求を受け入れない!"/>
+  <Language key="4" value="バーコードがロックされていて、操作できません！"/>
+  <Language key="5" value="このバーコード規格情報はすでに廃棄されており、操作できません！"/>
+</Languages>
+
+

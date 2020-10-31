@@ -1,0 +1,10 @@
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.pdb
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.pdb
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Release\Mobile.PrinxChengShan.Model.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Release\Mobile.PrinxChengShan.Model.pdb
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Release\ResolveAssemblyReference.cache
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Release\Mobile.PrinxChengShan.Model.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Release\Mobile.PrinxChengShan.Model.pdb

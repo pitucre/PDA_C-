@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Languages>
+  <Language key="0" value="Successful operation。"/>
+  <Language key="1" value="Operation failed, please re-operate！"/>
+  <Language key="2" value="User login failed, please login again!"/>
+  <Language key="404" value="Request error！"/>
+  <Language key="600" value="Unlawful requests shall not be rejected！"/>
+  <Language key="4" value="Barcode is locked, unable to operate！"/>
+  <Language key="5" value="The barcode specification information has been scrapped and cannot be operated！"/>
+</Languages>

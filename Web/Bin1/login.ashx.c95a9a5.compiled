@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Web/Ashx/Login.ashx" hash="5d526e7a" filehash="ffffd48d8f3919da" flags="110000" assembly="App_Web_4w44y4lx" type="Login">
+    <filedeps>
+        <filedep name="/Web/Ashx/Login.ashx" />
+    </filedeps>
+</preserve>

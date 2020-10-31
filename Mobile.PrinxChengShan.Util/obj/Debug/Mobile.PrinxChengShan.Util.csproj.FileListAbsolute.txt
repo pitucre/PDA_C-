@@ -1,0 +1,16 @@
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\Mobile.PrinxChengShan.Util.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\Mobile.PrinxChengShan.Util.pdb
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\obj\Debug\Mobile.PrinxChengShan.Util.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\obj\Debug\Mobile.PrinxChengShan.Util.pdb
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\Mobile.PrinxChengShan.Util.dll
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\Mobile.PrinxChengShan.Util.pdb
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\obj\Debug\Mobile.PrinxChengShan.Util.dll
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\obj\Debug\Mobile.PrinxChengShan.Util.pdb
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\obj\Debug\Mobile.PrinxChengShan.Util.csprojResolveAssemblyReference.cache
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\Mobile.PrinxChengShan.Util.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\Mobile.PrinxChengShan.Util.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\System.Net.Http.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\System.Net.Http.xml
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\obj\Debug\Mobile.PrinxChengShan.Util.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Util\obj\Debug\Mobile.PrinxChengShan.Util.pdb

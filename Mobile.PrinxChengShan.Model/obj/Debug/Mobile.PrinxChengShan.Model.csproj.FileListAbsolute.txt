@@ -1,0 +1,12 @@
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.pdb
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.dll
+E:\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.pdb
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.dll
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.pdb
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.dll
+E:\Prinx_MES\04-MES管理端\LonSon.Mobile.PrinxChengShan\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\bin\Debug\Mobile.PrinxChengShan.Model.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\Mobile.PrinxChengShan.Model\obj\Debug\Mobile.PrinxChengShan.Model.pdb

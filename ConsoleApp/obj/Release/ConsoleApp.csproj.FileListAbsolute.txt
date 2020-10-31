@@ -1,0 +1,17 @@
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\ConsoleApp.exe.config
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\ConsoleApp.exe
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\ConsoleApp.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\DataOperate.Net.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\Mobile.PrinxChengShan.Dal.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\Mobile.PrinxChengShan.Model.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\Newtonsoft.Json.Net20.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\LonSon.GlobalConditions.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\Mobile.PrinxChengShan.Util.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\Mobile.PrinxChengShan.Dal.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\Mobile.PrinxChengShan.Model.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\DataOperate.Net.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\LonSon.GlobalConditions.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\bin\Release\Mobile.PrinxChengShan.Util.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\obj\Release\ConsoleApp.csprojResolveAssemblyReference.cache
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\obj\Release\ConsoleApp.exe
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\ConsoleApp\obj\Release\ConsoleApp.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Basic>
+  <!--成品胎质量状态-->
+  <Data key="1" value="QC_RESULT"/>
+  <!--半成品质量状态-->
+  <Data key="2" value="WIPSTA"/>
+  <!--成品仓库-->
+  <Data key="3" value="4"/>
+  <!---->
+  <Data key="4" value="4"/>
+  <!--成品盘点单据类型-->
+  <Data key="5" value="4"/>
+  <!--盘点开盘代码-->
+  <Data key="6" value="2"/>
+  <!--获取设备硫化机机台信息-->
+  <Data key="7" value="FT"/>
+  <!--原材料盘点单据类型-->
+  <Data key="8" value="0"/>
+  <!--模具档案-质量状态-->
+  <Data key="10" value="MD_QSTA"/>
+  <!--模具检验类型-->
+  <Data key="11" value="MouldInspe"/>
+  <!--胎胚盘点代码-->
+  <Data key="12" value="3"/> 
+  <!--半成品盘点代码-->
+  <Data key="14" value="2"/>
+  <!--密炼盘点代码-->
+  <Data key="16" value="1"/>
+  <!--车间成品盘点代码-->
+  <Data key="18" value="5"/>
+ <!--获取工位-->
+  <Data key="19" value="WG01"/>
+  <!--TV-->
+  <Data key="20" value="9"/> 
+</Basic>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Languages>
+  <Language key="0" value="操作成功"/>
+  <Language key="1" value="操作失败，请重新操作！"/>
+  <Language key="2" value="用户登录失败，请重新登录！"/>
+  <Language key="404" value="请求错误"/>
+  <Language key="600" value="非法请求，不予接受请求驳回!"/>
+  <Language key="4" value="条码已经锁定，无法操作！"/>
+  <Language key="5" value="该条码规格信息已经报废，无法操作！"/>
+</Languages>

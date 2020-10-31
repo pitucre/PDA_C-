@@ -1,0 +1,11 @@
+E:\Test\LonSon.GlobalConditions\LonSon.GlobalConditions\bin\Debug\LonSon.GlobalConditions.dll
+E:\Test\LonSon.GlobalConditions\LonSon.GlobalConditions\bin\Debug\LonSon.GlobalConditions.pdb
+E:\Test\LonSon.GlobalConditions\LonSon.GlobalConditions\obj\Debug\LonSon.GlobalConditions.dll
+E:\Test\LonSon.GlobalConditions\LonSon.GlobalConditions\obj\Debug\LonSon.GlobalConditions.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\LonSon.GlobalConditions\bin\Debug\LonSon.GlobalConditions.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\LonSon.GlobalConditions\bin\Debug\LonSon.GlobalConditions.pdb
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\LonSon.GlobalConditions\bin\Debug\System.Net.Http.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\LonSon.GlobalConditions\bin\Debug\System.Net.Http.xml
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\LonSon.GlobalConditions\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\LonSon.GlobalConditions\obj\Debug\LonSon.GlobalConditions.dll
+E:\Prinx-MES\04-服务器端程序\LonSon.Mobile.PrinxChengShan.App.Web\LonSon.GlobalConditions\obj\Debug\LonSon.GlobalConditions.pdb

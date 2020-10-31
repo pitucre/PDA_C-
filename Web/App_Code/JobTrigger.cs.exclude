@@ -1,0 +1,26 @@
+﻿using Mobile.PrinxChengShan.Bll;
+//using Quartz;
+
+
+/// <summary>
+/// JobTrigger 的摘要说明
+/// </summary>
+public class JobTrigger //: IJob
+{
+    /// <summary>
+    /// 要执行的计划任务
+    /// </summary>
+    public void MyJob()
+    {
+        new EQA0005Bll().EquipmentSpotCheckTask();
+        new EQC0004Bll().EquipmentIubricationTask();
+    }
+    /// <summary>
+    /// 调度计划任务
+    /// </summary>
+    /// <param name="context"></param>    
+  /*  public void Execute(IJobExecutionContext context)
+    {
+        MyJob();
+    }*/
+}
